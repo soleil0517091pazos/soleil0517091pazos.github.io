@@ -1,1 +1,65 @@
 
+ body {
+                background-color: #b6b7b8
+}
+
+#pics1 {
+                width:100%;
+                text-align: center;
+}
+
+.pics2{
+                display: inline-block;
+}
+
+button{
+                width: 400px; height: 115px;
+                max-width: 100%;
+                background-color:cadetblue; 
+                text-align: center; 
+                font-family: monospace; font-size: xx-large; 
+                border-color: black;
+}
+
+.banner{
+                margin-left:auto;
+                margin-right:auto;
+ 
+}
+
+.basic-hr-tags{
+               background-color: black;
+               height: 4px;
+}
+
+.headings{
+              font-size: 70px;
+              color: black;
+              text-decoration: underline;
+              font-family: monospace;
+              text-align: center;
+}
+
+.photo-names{
+              color: black;
+              font-family: monospace;
+}
+
+.photo-tags{
+            font-size: xx-small;
+            font-family: monospace;
+            color: black;
+}
+
+.images-100{
+            max-width: 100%;
+} 
+
+.images-90{
+            max-width: 90%;
+}
+
+.photo-info{
+            font-family: monospace; 
+            color: black;
+}
